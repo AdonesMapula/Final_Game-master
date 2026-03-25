@@ -1,0 +1,70 @@
+# =========================
+# Unity generated folders
+# =========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# =========================
+# IDE / Editor
+# =========================
+.vs/
+.vscode/
+.idea/
+.consulo/
+
+# =========================
+# Rider / JetBrains plugin
+# =========================
+[Aa]ssets/Plugins/Editor/JetBrains*
+
+# =========================
+# Auto-generated project files
+# =========================
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Keep meta files tracked
+!*.meta
+
+# Ignore meta files for ignored debug database files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# =========================
+# Build outputs / packages
+# =========================
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
